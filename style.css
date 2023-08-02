@@ -1,0 +1,25 @@
+/* Estilo para los encabezados */
+h1 {
+    font-size: 28px;
+    color: whitesmoke;
+  }
+  
+  /* Estilo para los párrafos */
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: indigo;
+  }
+  
+  /* Estilo para los enlaces */
+  a {
+    color: darkcyan ;
+    text-decoration: none;
+  }
+  
+  /* Estilo para las imágenes */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
